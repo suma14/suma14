@@ -28,7 +28,7 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
   ▸ Delivered personalized agriculture insights based on soil data and location
 
 - **Ekart Shopping Platform**  
-  ▸ Full-stack e-commerce app with **Spring Boot**, **Angular**, and **MySQL**  
+  ▸ Full-stack e-commerce app with **Nodejs**, **REST API**, and **MySQL**  
   ▸ Included secure transactions, product browsing, and cart functionality
 
 ---
