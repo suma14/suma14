@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast currently pursuing my Master’s in Information Science and Technology at **Missouri University of Science and Technology**. With a background in **Electronics and Communication Engineering**, I’ve transitioned into full-stack and data-driven development, combining my love for coding with a drive to solve real-world problems.
+Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast currently pursuing my Master’s in **Information Science and Technology** at **Missouri University of Science and Technology**. With a background in **Electronics and Communication Engineering**, I’ve transitioned into full-stack and data-driven development, combining my love for coding with a drive to solve real-world problems.
 
 ---
 
