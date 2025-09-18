@@ -6,6 +6,10 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
 
 ### 💼 Experience Snapshot
 
+- **Volunteer Research Assistant @ Missouri University of Science and Tecnology**
+  ▸ Investigating user perceptions in **AR environments** by developing immersive experiences using **Unity** and **Vuforia SDK**, with integration into AR glasses for real-world usability testing.   
+  ▸ Collecting and analyzing interaction data to optimize performance, enhance spatial accuracy, and improve overall user engagement in marker-based AR scenarios.
+
 - **Program Analyst @ Cognizant**  
   ▸ Worked on **Oracle HCM Fusion**, **SQL**, and **Full Stack Development**  
   ▸ Developed BI Publisher reports, optimized system performance, and supported enterprise applications  
