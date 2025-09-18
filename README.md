@@ -23,10 +23,6 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
   ▸ Processed and visualized large-scale datasets using **SAP HANA** and **SAP Analytics Cloud**  
   ▸ Uncovered trends in rider behavior, station usage, and trip durations to guide business decisions
 
-- **Crop & Fertilizer Recommendation Web App**  
-  ▸ Built using **React**, **Flask**, and machine learning (SVM, KNN, Random Forest)  
-  ▸ Delivered personalized agriculture insights based on soil data and location
-
 - **Ekart Shopping Platform**  
   ▸ Full-stack e-commerce app with **Nodejs**, **REST API**, and **MySQL**  
   ▸ Included secure transactions, product browsing, and cart functionality
