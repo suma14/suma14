@@ -22,17 +22,6 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
 - **Associate Data Scientist @ eBay**  
   ▸ Developed recommendation and time-series forecasting systems increasing conversions by 28% and reducing stockouts by 42% across 1,000+ product categories.
   ▸ Architected AWS-based cloud-native analytics pipelines (S3, Glue, Redshift) processing 500GB+ daily with A/B testing and real-time KPI dashboards.
----
-
-### 🚀 Projects I’m Proud Of
-
-- **Citi Bikes Analysis with SAP**  
-  ▸ Processed and visualized large-scale datasets using **SAP HANA** and **SAP Analytics Cloud**  
-  ▸ Uncovered trends in rider behavior, station usage, and trip durations to guide business decisions
-
-- **Ekart Shopping Platform**  
-  ▸ Full-stack e-commerce app with **Nodejs**, **REST API**, and **MySQL**  
-  ▸ Included secure transactions, product browsing, and cart functionality
 
 ---
 
