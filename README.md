@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast currently pursuing my Master’s in **Information Science and Technology** at **Missouri University of Science and Technology**. With a background in **Electronics and Communication Engineering**, I’ve transitioned into full-stack and data-driven development, combining my love for coding with a drive to solve real-world problems.
+Hi there! I'm **Suma Gurugubelli**, a passionate **Data Scientist** and **AI/ML Engineer** with proven experience building generative AI platforms, predictive models, and data-driven solutions across financial services, healthcare, insurance, and e-commerce. Expert at translating complex ML and GenAI systems into measurable business outcomes, with deep proficiency in cloud-native architectures, end-to-end MLOps, and stakeholder-ready analytics
 
 ---
 
@@ -70,7 +70,7 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
 ### 📫 Let's Connect
 
 - 📧 Email: sumagurugubelli@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suma-gurugubelli)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sumagurugubelli)
 - 🔗 Website: https://suma14.github.io/React-portfolio/
   
 
