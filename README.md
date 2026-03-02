@@ -6,20 +6,22 @@ Hi there! I'm **Suma Gurugubelli**, a passionate developer and tech enthusiast c
 
 ### 💼 Experience Snapshot
 
-- **Volunteer Research Assistant @ Missouri University of Science and Tecnology**
+- **Generative AI Engineer (Data Scientist) @ Huntington Bank**
   
-  ▸ Investigating user perceptions in **AR environments** by developing immersive experiences using **Unity** and **Vuforia SDK**, with integration into AR glasses for real-world usability testing.   
-  ▸ Collecting and analyzing interaction data to optimize performance, enhance spatial accuracy, and improve overall user engagement in marker-based AR scenarios.
+  ▸ Architected a GPT-4 + LangChain powered fraud detection and RAG platform processing 10M+ daily transactions, improving detection accuracy by 40% and reducing false positives by 55%.  
+  ▸ Built end-to-end MLOps pipelines on AWS (SageMaker, MLflow, Kubernetes) enabling sub-200ms inference latency, auto-retraining, and 99.9% uptime production systems.
 
-- **Program Analyst @ Cognizant**  
-  ▸ Worked on **Oracle HCM Fusion**, **SQL**, and **Full Stack Development**  
-  ▸ Developed BI Publisher reports, optimized system performance, and supported enterprise applications  
-  ▸ Collaborated with cross-functional teams to deliver robust, user-focused software solutions
+- **Machine Learning Engineer @ UnitedHealth Group**  
+  ▸ Developed predictive healthcare models on 500K+ patient records and BERT-based NLP systems (91% F1-score) to improve readmission forecasting and clinical insight extraction.
+  ▸ Designed HIPAA-compliant Azure data pipelines (100TB+ monthly) and deployed containerized ML services with automated drift detection and zero-downtime updates. 
+  
+- **Data Scientist @ Liberty Mutual**  
+  ▸ Built intelligent underwriting, fraud detection, and dynamic pricing models improving risk accuracy by 45% and preventing $10M+ in fraudulent payouts annually.  
+  ▸ Engineered real-time AI systems on GCP (Vertex AI, BigQuery) with enterprise feature stores and governance frameworks reducing model cycle time by 40%.
 
-- **Web Developer Intern @ Immensphere via Teachnook**  
-  ▸ Built responsive user interfaces using **HTML**, **CSS**, and **JavaScript**  
-  ▸ Contributed to enhancing website performance and user experience
-
+- **Associate Data Scientist @ eBay**  
+  ▸ Developed recommendation and time-series forecasting systems increasing conversions by 28% and reducing stockouts by 42% across 1,000+ product categories.
+  ▸ Architected AWS-based cloud-native analytics pipelines (S3, Glue, Redshift) processing 500GB+ daily with A/B testing and real-time KPI dashboards.
 ---
 
 ### 🚀 Projects I’m Proud Of
