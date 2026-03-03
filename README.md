@@ -71,6 +71,5 @@ Hi there! I'm **Suma Gurugubelli**, a passionate **Data Scientist** and **AI/ML 
 
 - 📧 Email: sumagurugubelli@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sumagurugubelli)
-- 🔗 Website: https://suma14.github.io/React-portfolio/
   
 
