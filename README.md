@@ -1,26 +1,30 @@
 ### 👋 About Me
 
 Hi there! I'm **Suma Gurugubelli**, Cloud & Data Engineer with over 5+ years of experience architecting, securing, and operating enterprise AWS data platforms and analytics environments. Demonstrated expertise in Snowflake Administration (RBAC, warehouse optimization, Snowpipe), building high-throughput PySpark pipelines via AWS Glue and EMR, and orchestrating complex workflows with Step Functions. Proven track record across major financial and healthcare enterprises—including Huntington Bank, UnitedHealth Group, and Liberty Mutual—leveraging Terraform, CI/CD, and robust AWS infrastructure security (IAM, VPC, KMS) to deliver fault-tolerant, scalable data solutions.
+
 ---
 
 ### 💼 Experience Snapshot
 
-- **Generative AI Engineer (Data Scientist) @ Huntington Bank**
+- **Senior Cloud & Data Engineer @ Huntington Bank**
   
-  ▸ Architected a GPT-4 + LangChain powered fraud detection and RAG platform processing 10M+ daily transactions, improving detection accuracy by 40% and reducing false positives by 55%.  
-  ▸ Built end-to-end MLOps pipelines on AWS (SageMaker, MLflow, Kubernetes) enabling sub-200ms inference latency, auto-retraining, and 99.9% uptime production systems.
+ ▸ Architected and managed scalable AWS S3 Data Lakes integrated with Snowflake, implementing Snowpipe and COPY commands for automated, continuous data loading and ingestion.
+ ▸	Managed Snowflake Administration, including provisioning multi-cluster virtual warehouses, configuring Role-Based Access Control (RBAC), managing database objects, and optimizing query performance via micro-partitioning.
 
-- **Machine Learning Engineer @ UnitedHealth Group**  
-  ▸ Developed predictive healthcare models on 500K+ patient records and BERT-based NLP systems (91% F1-score) to improve readmission forecasting and clinical insight extraction.
-  ▸ Designed HIPAA-compliant Azure data pipelines (100TB+ monthly) and deployed containerized ML services with automated drift detection and zero-downtime updates. 
+
+- **Data & Cloud Engineer @ UnitedHealth Group**  
+  ▸ 	Designed secure, fault-tolerant cloud data architectures leveraging AWS Glue, S3, DynamoDB, Lambda, and RDS to support real-time and batch data pipelines.
+  ▸ Engineered Python and PySpark scripts to automate data transformation, validation, and cleansing routines before loading into target analytical data stores.
+
   
-- **Data Scientist @ Liberty Mutual**  
-  ▸ Built intelligent underwriting, fraud detection, and dynamic pricing models improving risk accuracy by 45% and preventing $10M+ in fraudulent payouts annually.  
-  ▸ Engineered real-time AI systems on GCP (Vertex AI, BigQuery) with enterprise feature stores and governance frameworks reducing model cycle time by 40%.
+- **AWS Data Engineer @ Liberty Mutual**  
+  ▸ Architected secure AWS environments using VPCs, subnets, security groups, load balancers, and Transit Gateway for high-throughput data traffic.
+  ▸ Automated infrastructure provisioning, governance, and compliance using Terraform and AWS Control Tower
 
-- **Associate Data Scientist @ eBay**  
-  ▸ Developed recommendation and time-series forecasting systems increasing conversions by 28% and reducing stockouts by 42% across 1,000+ product categories.
-  ▸ Architected AWS-based cloud-native analytics pipelines (S3, Glue, Redshift) processing 500GB+ daily with A/B testing and real-time KPI dashboards.
+
+- **Software Engineer (Data & Cloud) @ eBay**  
+  ▸ Improved infrastructure performance and reliability through proactive monitoring and maintenance of hardware, software, and networks.
+  ▸ Automated repetitive operational and data ingestion tasks using Python and Shell scripting across cross-functional teams.
 
 ---
 
