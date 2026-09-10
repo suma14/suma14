@@ -1,7 +1,6 @@
 ### 👋 About Me
 
-Hi there! I'm **Suma Gurugubelli**, a passionate **Data Scientist** and **AI/ML Engineer** with proven experience building generative AI platforms, predictive models, and data-driven solutions across financial services, healthcare, insurance, and e-commerce. Expert at translating complex ML and GenAI systems into measurable business outcomes, with deep proficiency in cloud-native architectures, end-to-end MLOps, and stakeholder-ready analytics
-
+Hi there! I'm **Suma Gurugubelli**, Cloud & Data Engineer with over 5+ years of experience architecting, securing, and operating enterprise AWS data platforms and analytics environments. Demonstrated expertise in Snowflake Administration (RBAC, warehouse optimization, Snowpipe), building high-throughput PySpark pipelines via AWS Glue and EMR, and orchestrating complex workflows with Step Functions. Proven track record across major financial and healthcare enterprises—including Huntington Bank, UnitedHealth Group, and Liberty Mutual—leveraging Terraform, CI/CD, and robust AWS infrastructure security (IAM, VPC, KMS) to deliver fault-tolerant, scalable data solutions.
 ---
 
 ### 💼 Experience Snapshot
